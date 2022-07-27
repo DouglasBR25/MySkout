@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RelativeLayout">
+
+    <TextView
+        android:id="@+id/txtCompA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/componente_a"
+        android:textAllCaps="false"
+        android:textColor="@color/corfonte"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_toRightOf="@+id/txtCompA"
+        android:id="@+id/txtCompB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/componente_b"
+        android:textAllCaps="false"
+        android:textColor="#03A9F4"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_below="@+id/txtCompA"
+        android:id="@+id/txtCompC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/componente_c"
+        android:textAllCaps="false"
+        android:textColor="#FFC107"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_below="@+id/txtCompB"
+        android:layout_toRightOf="@+id/txtCompC"
+        android:id="@+id/txtCompD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/componente_d"
+        android:textAllCaps="false"
+        android:textColor="#CDDC39"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

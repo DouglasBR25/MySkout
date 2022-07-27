@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/douglas.cjustino/Documents/MySkout/app/src/main/res/drawable/ic_outline_email.xml" value="0.148" />
+        <entry key="..\:/Users/douglas.cjustino/Documents/MySkout/app/src/main/res/drawable/ic_outline_lock.xml" value="0.148" />
         <entry key="..\:/Users/douglas.cjustino/Documents/MySkout/app/src/main/res/layout/activity_main.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/douglas.cjustino/Documents/MySkout/app/src/main/res/layout/inner_layout.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/douglas.cjustino/Documents/MySkout/app/src/main/res/layout/janela_frame_layout.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/douglas.cjustino/Documents/MySkout/app/src/main/res/layout/janela_table_layout.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/douglas.cjustino/Documents/MySkout/app/src/main/res/layout/login_layout.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/douglas.cjustino/Documents/MySkout/app/src/main/res/layout/relative_layout_layout.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/douglas.cjustino/Documents/MySkout/app/src/main/res/layout/splash_layout.xml" value="0.27291666666666664" />
       </map>
     </option>
